@@ -5,4 +5,7 @@ Playing with Git
 Adding to file
 
 Testing again
+
+Is branching working? 
+I hope so, lets see!
 A new play-branch has been created on my local machine however, doesn't work.
