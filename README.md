@@ -5,3 +5,6 @@ Playing with Git
 Adding to file
 
 Testing again
+
+Is branching working? 
+I hope so, lets see!
