@@ -9,4 +9,5 @@ A new play-branch has been created on my local machine however, doesn't work
 Some git commands to remember:
 git status (shows what is the status)
 git add README.md (to add new changes to file)
-git 
+git commit -m "message" (commits the changes to the repository)
+git push 
