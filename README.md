@@ -12,3 +12,5 @@ git status (shows what is the status)
 git add README.md (to add new changes to file)
 git commit -m "message" (commits the changes to the repository)
 
+# Some more commands
+git checkout -b <new_branch_name> # creates new branch from current branch 
